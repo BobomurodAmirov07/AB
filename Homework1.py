@@ -1,0 +1,1 @@
+print("Do homeworks bitch")
